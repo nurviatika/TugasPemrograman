@@ -4,7 +4,7 @@ console.log("Nim    : 20220040281")
 console.log("Kelas  : TI22A")
 console.log("------------------------")
 
-// Pemrograman sederhana menggunakan if, else, dan switch case
+// Pemrograman sederhana menggunakan if else, dan switch case
 
 function menghitungKomisiDanUangJasa(pendapatan) {
     let uangJasa;
